@@ -1,10 +1,11 @@
-[{
+[
+  {
   "japanese": "知らぬが仏",
   "romaji": "Shiranu ga hotoke",
   "english": "Not knowing is Buddha",
   "meaning": "Ignorance is bliss"
 },
-  { 
+  {
     "japanese": "馬子にも衣装",
     "romaji": "Mago ni mo ishou",
     "english": "Even a packhorse driver looks good in fine clothes",
@@ -495,5 +496,11 @@
   "romaji": "Ashita wa ashita no kaze ga fuku",
   "english": "Tomorrow's wind will blow tomorrow",
   "meaning": "Don't worry too much about the future"
+},
+  {
+  "japanese": "後悔先に立たず",
+  "romaji": "Koukai saki ni tatazu",
+  "english": "Regret does not stand before",
+  "meaning": "It's too late for regrets"
 }
 ]

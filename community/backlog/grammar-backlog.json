@@ -57,7 +57,7 @@
     "id": 10,
     "text": "\"〜ようです\" means \"it seems like\" and is based on observation.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 11,
@@ -584,7 +584,7 @@
   {
     "id": 98,
     "text": "\"〜なければならない\" means \"must\" or \"have to\" do something. (practice variation 13)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -800,7 +800,7 @@
   {
     "id": 134,
     "text": "\"〜ながらも\" means \"even while\" or \"though\" (contrast). (practice variation 49)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
